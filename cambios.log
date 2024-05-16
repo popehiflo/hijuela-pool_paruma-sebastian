@@ -1,0 +1,20 @@
+[2024-05-15 22:02:38] [ INFO ] [BD:26] tabla odontologo creada con exito
+[2024-05-15 22:02:38] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:13:59] [ INFO ] [BD:26] tabla odontologo creada con exito
+[2024-05-15 22:13:59] [ INFO ] [OdontologoDaoH2:21] inicando la operacion de guardado
+[2024-05-15 22:13:59] [ INFO ] [OdontologoDaoH2:59] inicando la operacion de listado
+[2024-05-15 22:13:59] [ INFO ] [OdontologoDaoH2:76] [model.Odontologo@dd8ba08, model.Odontologo@245b4bdc, model.Odontologo@6c64cb25]
+[2024-05-15 22:15:57] [ INFO ] [BD:26] tabla odontologo creada con exito
+[2024-05-15 22:15:57] [ INFO ] [OdontologoDaoH2:21] inicando la operacion de guardado
+[2024-05-15 22:15:57] [ INFO ] [OdontologoDaoH2:59] inicando la operacion de listado
+[2024-05-15 22:15:57] [ INFO ] [OdontologoDaoH2:76] [model.Odontologo@dd8ba08, model.Odontologo@245b4bdc, model.Odontologo@6c64cb25]
+[2024-05-15 22:17:06] [ INFO ] [BD:26] tabla odontologo creada con exito
+[2024-05-15 22:17:06] [ INFO ] [OdontologoDaoH2:21] inicando la operacion de guardado
+[2024-05-15 22:17:06] [ INFO ] [OdontologoDaoH2:59] inicando la operacion de listado
+[2024-05-15 22:17:06] [ INFO ] [OdontologoDaoH2:76] [Odontologo{id=1, nroMatricula=123, nombre='Pool', apellido='Hijuela'}, Odontologo{id=2, nroMatricula=456, nombre='Sebastian', apellido='Paruma'}, Odontologo{id=3, nroMatricula=789, nombre='Odontologo', apellido='Dental'}]
+[2024-05-15 22:42:05] [ INFO ] [BD:26] tabla odontologo creada con exito
+[2024-05-15 22:42:05] [ INFO ] [OdontologoDaoH2:21] inicando la operacion de guardado
+[2024-05-15 22:42:05] [ INFO ] [OdontologoDaoH2:59] inicando la operacion de listado
+[2024-05-15 22:42:05] [ INFO ] [OdontologoDaoH2:76] [Odontologo{id=1, nroMatricula=123, nombre='Pool', apellido='Hijuela'}, Odontologo{id=2, nroMatricula=456, nombre='Sebastian', apellido='Paruma'}, Odontologo{id=3, nroMatricula=789, nombre='Odontologo', apellido='Dental'}]
+[2024-05-15 22:42:05] [ INFO ] [OdontologoDaoH2:59] inicando la operacion de listado
+[2024-05-15 22:42:05] [ INFO ] [OdontologoDaoH2:76] [Odontologo{id=1, nroMatricula=123, nombre='Pool', apellido='Hijuela'}, Odontologo{id=2, nroMatricula=456, nombre='Sebastian', apellido='Paruma'}, Odontologo{id=3, nroMatricula=789, nombre='Odontologo', apellido='Dental'}]

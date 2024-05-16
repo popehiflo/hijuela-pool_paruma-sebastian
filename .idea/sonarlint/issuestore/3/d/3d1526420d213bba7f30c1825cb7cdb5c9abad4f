@@ -1,0 +1,10 @@
+
+	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ş¸…çøÿÿÿÿ8ÿ§§ú÷1J$ee87181e-b7ae-4161-9b2c-0f2a2d8c5bd9
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ş‰ªú÷1J$6ed13d3c-8863-4d18-a958-06e19e9e6468
+‚
+java:S1118	":Add a private constructor to hide the implicit public one.(˜ÃÉÍûÿÿÿÿ8ˆ¨§ú÷1J$68cc947b-726d-46bd-94d3-025f77b24736
+p
+java:S4925""-Remove this "Class.forName()", it is useless.(›‡ªœ8¨§ú÷1J$3d120950-64ee-455f-ad33-197b712cb96c
+y
+java:S6437#"6Revoke and change this password, as it is compromised.(ç‚³Ö8¨§ú÷1J$e1d9bc9c-9c47-4b6e-85d0-b1bde929348f

@@ -1,0 +1,9 @@
+
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ıú‰üÿÿÿÿ8Õû÷1J$73603d90-1f85-4d0f-b9f9-3763f7b516e4
+É
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç†¥Îúÿÿÿÿ8Öû÷1J$e2a9566b-f46d-4cbe-bc73-74eb0e090fe0
+Ã
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±öû`8Öû÷1J$9ea8c5da-ffd1-4cda-98d3-43b20ba0a9cc
+g
+java:S6905"Don't use the query "SELECT *".(©ä™–üÿÿÿÿ8âû÷1J$2853bf00-49c8-414f-b62b-9d58b511100c
